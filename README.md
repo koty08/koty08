@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Front-end developer who loves new tech & trends
 
 <!--
 **koty08/koty08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm currently using ...
+| Languages | Framework / Library | State Management | Styling |
+| --- | --- | --- | --- |
+| <img alt="Javascript" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/501f7d40-64aa-4cf1-84e0-32afb077f1d6" /> <img alt="Typescript" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/be6117a2-06cc-4f3d-964e-7258ed3c19bb" /> | <img alt="React" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/c323dd3d-5259-4c5c-a20b-4ba085b146a7" /> <img alt="NextJS" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/ec14c2df-336a-464b-b89d-c4ef46b74e64" /> <img alt="ExpressJS" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/d4035fba-489b-4fd4-b728-e8160b553c36" /> | <img alt="Redux" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/28f0b21b-4aa7-481c-8210-edece30ae5f1" /> <img alt="React-Query" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/a58466f6-8fd9-40b2-b23f-2ba0357a17af" /> <img alt="Recoil" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/9899d91a-2aac-464b-a065-4e3f965ed6ca" /> | <img alt="Styled-Components" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/a7b44866-5936-4088-a884-6a9886ed959a" /> <img alt="Tailwind" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/3435281c-3f35-4406-906e-5054620d9f36" /> |
+
+#### I'm also good at ...
+<img alt="Python" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/a9a2ba06-b0f8-43f5-8857-75533d9bd603" />
+<img alt="Flutter" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/2449a40d-e95b-420a-8192-cf461af7ec22" />
+<img alt="Nginx" height="48px" width="48px" src="https://github.com/koty08/koty08/assets/43947871/96d0a807-dbdf-41f4-8352-856f96965fc0" />
